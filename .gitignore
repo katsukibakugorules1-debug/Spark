@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+.venv/
+.cache/
+voice_samples/
+master_voice.wav
+master_voice.pt
+*.pt
