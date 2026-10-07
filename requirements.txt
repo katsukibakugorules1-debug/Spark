@@ -1,0 +1,4 @@
+SpeechRecognition
+PyAudio
+torch
+speechbrain==1.1.1
